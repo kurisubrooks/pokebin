@@ -2,7 +2,7 @@
 A Simple, Online Pokemon Database
 
 ### Features
-PokéBin shows you basic information on every Pokémon, while keeping a clean, minimalistic design.
+[PokéBin](http://kurisubrooks.github.io/pokebin/) shows you basic information on every Pokémon, while keeping a clean, minimalistic design.
 
 ### Contributions
 For now, we won't be accepting Pull Requests, unless they add vital features or important bug fixes.

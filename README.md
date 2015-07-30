@@ -1,6 +1,7 @@
 # PokéDB
 A Simple, Online Pokemon Database
 
+###### [deprecated]
 ### Features
 [PokéDB](http://kurisubrooks.github.io/pokedb/) shows you basic information on every Pokémon, while keeping a clean, minimalistic design.
 
